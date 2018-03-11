@@ -1,0 +1,27 @@
+{
+  "name": "ts-y-random",
+  "version": "1.0.0",
+  "description": "Utilities for generating random number.",
+  "main": "Random.js",
+  "types": "Random.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuichiroharai/ts-y-random.git"
+  },
+  "author": {
+    "name": "Yuichiroh Arai",
+    "url": "http://www.yuichiroharai.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuichiroharai/ts-y-random/issues"
+  },
+  "homepage": "https://github.com/yuichiroharai/ts-y-random#readme",
+  "dependencies": {
+    "typescript": "^2.7.2"
+  }
+}
